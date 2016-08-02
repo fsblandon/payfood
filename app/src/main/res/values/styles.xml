@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <item name="colorControlNormal">@color/appcolor_trans</item>
+        <item name="colorControlActivated">@color/appcolor</item>
+        <item name="colorControlHighlight">@color/appcolor</item>
+    </style>
+
+    <style name="ActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="background">@color/appcolor</item>
+        <item name="displayOptions">showHome|showTitle|homeAsUp</item>
+    </style>
+
+    <style name="AppthemeMain" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">#77FFFFEE</item>
+        <item name="colorAccent">#FFFFFFFF</item>
+        <item name="colorControlActivated">#FFFFFFFF</item>
+        <item name="colorControlHighlight">#FFFFFFFF</item>
+    </style>
+
+    <style name="AppThemeHome" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <item name="colorAccent">#FFFFFFFF</item>
+    </style>
+
+    <style name="AppTheme.Transparent" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+
+</resources>

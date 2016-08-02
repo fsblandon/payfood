@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayFood</string>
+    <string name="title_activity_detalle_menu">Detalle Menu</string>
+    <string name="title_activity_register">Registro</string>
+</resources>

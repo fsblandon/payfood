@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appcolor">#801215</color>
+    <color name="negro">#F0000000</color>
+    <color name="appcolor_trans">#AAFE2E2E</color>
+    <color name="appbackground">#FBEFF2</color>
+    <color name="nombreapp">#AAFE2E2E</color>
+    <color name="fondo">#ECCDAC</color>
+    <color name="mdtp_accent_color">#BB801215</color>
+    <color name="mdtp_accent_color_dark">@color/appcolor</color>
+
+
+</resources>
